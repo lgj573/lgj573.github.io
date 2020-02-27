@@ -6,7 +6,7 @@ tags: [ionic , npm]
 description: npm install 碰到的问题
 ---
 
-#尝试和选择
+# 尝试和选择
 
 ## 一开始卡在 npm install,error fetchMetadata: sill install loadAllDepsIntoIdealTree
 
