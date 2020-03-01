@@ -29,6 +29,6 @@ MSBUILD : error MSB3428: 未能加载 Visual C++ 组件“VCBuild.exe”。要�
 已完成生成项目“F:\ionic\final\node_modules\@ionic\app-scripts\node_modules\node-sass\build\binding.sln”(默认目标)的操作 - 失败。
 ```
 
-运行 npm install --global --production windows-build-tools ，要用administrator运行
+运行 npm install --global --production windows-build-tools ，npm install -g node-gyp，要用以管理员身份运行
 
  
