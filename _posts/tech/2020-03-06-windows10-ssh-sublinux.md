@@ -4,9 +4,7 @@ title: windows10 ssh到ubuntu子系统
 category: 技术
 tags: [ssh,sublinux]
 description: windows10 ssh到ubuntu子系统
----
-
-# windows10 ssh到ubuntu子系统
+--- 
 
 ```
 
