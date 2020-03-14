@@ -50,6 +50,6 @@ exit
 
 ```
 
-RunHiddenConsole 下载地址 https://gist.github.com/maiorano84/2b1a40926f49a55f9afd
+RunHiddenConsole 下载地址 [https://gist.github.com/maiorano84/2b1a40926f49a55f9afd](https://gist.github.com/maiorano84/2b1a40926f49a55f9afd)
 
-https://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip
+[https://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip](https://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip)
