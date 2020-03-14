@@ -7,7 +7,7 @@ description: Windows 下使用 RunHiddenConsole 启动 nginx、php
 --- 
 
 
-原文地址 https://blog.csdn.net/johnnycode/article/details/40148171
+原文地址 [https://blog.csdn.net/johnnycode/article/details/40148171](https://blog.csdn.net/johnnycode/article/details/40148171)
 
 RunHiddenConsole.exe的作用是在执行完命令行脚本后可以自动关闭脚本,而从脚本中开启的进程不被关闭。简单来说就是黑窗体（CMD命令窗体）不会显示，但CMD命令窗体中运行的程序不会被关闭，特别是一些会挂住必须显示命令窗体的命令还真不错，如 Tomcat、Php、Nginx等。
  

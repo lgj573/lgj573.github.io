@@ -7,7 +7,7 @@ description: imagemagick 优化图片
 --- 
 
 
-原文地址 https://zwbetz.com/optimize-images-and-reduce-page-load-times-with-imagemagick/
+原文地址 [https://zwbetz.com/optimize-images-and-reduce-page-load-times-with-imagemagick/](https://zwbetz.com/optimize-images-and-reduce-page-load-times-with-imagemagick/)
 
 img-optimize.cmd
 
